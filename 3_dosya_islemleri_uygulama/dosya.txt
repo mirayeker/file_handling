@@ -1,0 +1,12 @@
+Miray Eker ,100,80,90
+Ahmet Atalay,80,45,90
+Kaan Atalay,90,71,20
+Ayşe Eker,80,32,65
+Beyza Soylu,74,90,80
+Burak Arslan,10,45,62
+Can Tokmak,95,21,31
+Dilara Paşa,45,50,100
+Erdal Zengin,85,10,12
+Bedirhan Selim,40,32,52
+Taha Fidan,10,20,45
+Yiğit Yüksel,41,12,13
